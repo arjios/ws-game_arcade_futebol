@@ -1,0 +1,33 @@
+.header_container {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_logo {
+    margin: 20px;
+}
+
+.logo_text {
+    font-size: 26px;
+}
+
+.header_menu {
+    margin-right: 20px;
+}
+
+.main_container {
+    margin-top: 20px;
+}
+
+.main_content {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.main_tela {
+    background: black;
+    height: 480px;
+    width: 640px;
+}
